@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Welcome! 
+My name is Nirjhar, and I'm a BS/MS CS student at Georgia Tech with industry and research experience in distributed systems, machine learning infrastructure, and large language models.
 
-<!--
-**NirjharDeb/NirjharDeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Industry Experience
+- Uber: Built ML pipelines and developed LLM-powered code linters to improve developer productivity.
+- AT&T: Designed low-latency streaming technology for large-scale data delivery
 
-Here are some ideas to get you started:
+## 👨‍🔬 Research Highlights
+- Habanero Extreme Scale Software Lab: Developing a framework to safely remove yield calls in HClib, a C/C++ actor-based programming system for distributed systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- With a strong foundation in computing systems and architecture, I’m eager to dive deeper into mathematically rigorous fields like machine learning, quantitative finance, and artificial intelligence.
+---
+📫 Feel free to email me at ndeb6@gatech.edu if you have any opportunities or would just like to meet!😉
